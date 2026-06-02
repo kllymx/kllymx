@@ -2,7 +2,7 @@
 
 I build agentic systems and custom software for founders and teams who need more than off-the-shelf tools.
 
-I'm the founder of [Arcane Intelligence](https://arcaneintelligence.io), a Boston engineering studio that designs, ships, and supports practical agentic systems. I also build [Reccy Neuro](https://reccy.dev), [FDAgent](https://fdagent.app), and write about what actually works with agents, agentic software, and production AI at [maxkelly.io](https://maxkelly.io).
+I'm the founder of [Arcane Intelligence](https://arcaneintelligence.io), a Boston engineering studio that designs, ships, and supports practical agentic systems. I also build [Reccy Neuro](https://neuro.reccy.dev), [FDAgent](https://fdagent.app), and write about what actually works with agents, agentic software, and production AI at [maxkelly.io](https://maxkelly.io).
 
 Not a developer by training. A founder who learned to use these tools because they changed how I run my businesses. Everything I teach, I ship first.
 
@@ -17,7 +17,7 @@ Start here: [arcaneintelligence.io](https://arcaneintelligence.io) or [book a sh
 ## What I'm Building
 
 - [Arcane Intelligence](https://arcaneintelligence.io) - Custom AI and software, built around your team.
-- [Reccy Neuro](https://reccy.dev) - AI-first neurotech talent and intelligence platform.
+- [Reccy Neuro](https://neuro.reccy.dev) - AI-first neurotech talent and intelligence platform.
 - [FDAgent](https://fdagent.app) - Regulatory intelligence for life sciences.
 - ARC - A workshop system for turning business context into useful agentic systems.
 
