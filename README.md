@@ -24,7 +24,7 @@ Start here: [arcaneintelligence.io](https://arcaneintelligence.io) or [book a sh
 ## Learn From Me
 
 - [Blog](https://www.maxkelly.io/blog) - Agents, agentic system design, and production AI.
-- [Stack](https://www.maxkelly.io/stack) - The tools and patterns I use.
+- [Stack](https://www.maxkelly.io/ai) - The tools and patterns I use.
 - [Projects](https://www.maxkelly.io/projects) - Products, platforms, and systems I am building.
 
 ## Find Me Here
