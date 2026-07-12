@@ -19,7 +19,7 @@ Start here: [arcaneintelligence.io](https://arcaneintelligence.io) or [book a sh
 - [Arcane Intelligence](https://arcaneintelligence.io) - Custom AI and software, built around your team.
 - [Reccy Neuro](https://neuro.reccy.dev) - AI-first neurotech talent and intelligence platform.
 - [FDAgent](https://fdagent.app) - Regulatory intelligence for life sciences.
-- [Maat](https://maat.sh) - A product exploration into verifiable, governed memory for AI agents.
+- [Maat](https://maat.sh) - Verifiable, governed memory for AI agents.
 - ARC - A workshop system for turning business context into useful agentic systems.
 
 ## Learn From Me
