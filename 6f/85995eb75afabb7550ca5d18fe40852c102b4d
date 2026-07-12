@@ -1,0 +1,19 @@
+README.md
+  s_c514752a55f321::t_3e4412af41ed98 22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "6f85995eb75afabb7550ca5d18fe40852c102b4d",
+  "prompts": {},
+  "sessions": {
+    "s_c514752a55f321": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f57ae-1182-7ff0-bdad-7e5b011fdfff",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "kllymx <122115719+kllymx@users.noreply.github.com>"
+    }
+  }
+}
